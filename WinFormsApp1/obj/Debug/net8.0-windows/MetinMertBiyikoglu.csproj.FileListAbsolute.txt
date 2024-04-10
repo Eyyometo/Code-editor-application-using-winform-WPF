@@ -1,0 +1,313 @@
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.exe
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.deps.json
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.runtimeconfig.json
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.pdb
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.Properties.Resources.resources
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.GenerateResource.cache
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.AssemblyInfoInputs.cache
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.AssemblyInfo.cs
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.CoreCompileInputs.cache
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\refint\MetinMertBiyikoglu.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.pdb
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.genruntimeconfig.cache
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\ref\MetinMertBiyikoglu.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\AutocompleteMenu-ScintillaNET.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\Scintilla.NET.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Data.OleDb.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net7.0\System.IO.Ports.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.IO.Ports.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Runtime.Caching.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.AssemblyReference.cache
+C:\Users\metin.biyikoglu\Desktop\Metin Mert Bıyıkoğlu -E235013169\WinFormsApp1\obj\Debug\net8.0-windows\MetinMer.DD313ED2.Up2Date
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.AssemblyReference.cache
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.Properties.Resources.resources
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.GenerateResource.cache
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.AssemblyInfoInputs.cache
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.AssemblyInfo.cs
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.CoreCompileInputs.cache
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\refint\MetinMertBiyikoglu.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.pdb
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.exe
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.deps.json
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.runtimeconfig.json
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.pdb
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\AutocompleteMenu-ScintillaNET.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\FastColoredTextBox.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\Scintilla.NET.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Data.OleDb.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net7.0\System.IO.Ports.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.IO.Ports.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Runtime.Caching.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMer.DD313ED2.Up2Date
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.genruntimeconfig.cache
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\ref\MetinMertBiyikoglu.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\Interop.SHDocVw.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\AxInterop.SHDocVw.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\Interop.SHDocVw.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\AxInterop.SHDocVw.dll
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.ResolveComReference.cache
+C:\Users\metin.biyikoglu\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\NotepadApplication.HTMLPreview.resources
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.exe
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.deps.json
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.runtimeconfig.json
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\MetinMertBiyikoglu.pdb
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\AutocompleteMenu-ScintillaNET.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\FastColoredTextBox.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\Scintilla.NET.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Data.OleDb.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net7.0\System.IO.Ports.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.IO.Ports.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Runtime.Caching.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\Interop.SHDocVw.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\bin\Debug\net8.0-windows\AxInterop.SHDocVw.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.AssemblyReference.cache
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\Interop.SHDocVw.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\AxInterop.SHDocVw.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.ResolveComReference.cache
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.Properties.Resources.resources
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.GenerateResource.cache
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.AssemblyInfoInputs.cache
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.AssemblyInfo.cs
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMer.DD313ED2.Up2Date
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\refint\MetinMertBiyikoglu.dll
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.pdb
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\MetinMertBiyikoglu.genruntimeconfig.cache
+C:\Users\Metin\Desktop\Kod Editor\WinFormsApp1\obj\Debug\net8.0-windows\ref\MetinMertBiyikoglu.dll
